@@ -15,4 +15,4 @@ https://www.youtube.com/playlist?list=PLjKdf6AHvR-EcKe4MfmqzK62Oyj9XD5Hx
 
 [andriygav/MachineLearningSeminars: Семинары А.В. Грабового к лекционному курсу К.В. Воронцова. (github.com)](https://github.com/andriygav/MachineLearningSeminars/tree/master)https://github.com/andriygav/MachineLearningSeminars/tree/master
 
-mlcoursemm/mlcoursemm2019spring (github.com)
+[mlcoursemm/mlcoursemm2019spring (github.com)](https://github.com/mlcoursemm/mlcoursemm2019spring/tree/master?tab=readme-ov-file)https://github.com/mlcoursemm/mlcoursemm2019spring/tree/master?tab=readme-ov-file
